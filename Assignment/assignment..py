@@ -1,2 +1,3 @@
 def name():
-    print('khushi')
+    print("khushi")
+name()
